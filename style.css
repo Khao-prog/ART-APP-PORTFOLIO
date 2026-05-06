@@ -232,19 +232,15 @@ h2.section-title {
   50%      { transform: translateY(-10px); }
 }
 
+
+}
+
 .hero-avatar {
   width: 150px; height: 150px;
   border-radius: 50%;
-  background: url('https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-1/635119468_122229474020330189_7556539880864182269_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeG_IIWBj2CWBAsGNgBvwdkulvYAL_L-DMWW9gAv8v4Mxct27d82XCe51xut7fF8pErJ-i6LztMqpmN3OpTIozG1&_nc_ohc=x0wSmkyVGeoQ7kNvwEklwPQ&_nc_oc=Adq2hg053UlKi-zahiRJu_nT8-KreHpOVvgu-UYNJ4Id-CtsyGRAuhL_EsL3b1hHuyw&_nc_zt=24&_nc_ht=scontent.fmnl13-1.fna&_nc_gid=kUs-XhZv_pynC_5srTmIGg&_nc_ss=7a32e&oh=00_Afy3H4GLkeRUjLn13T0FvGWsjx5RMO6ukTLhzqwvwo3opQ&oe=69CAD44A') center/cover;
+  background: url('https://raw.githubusercontent.com/Khao-prog/ART-APP-PORTFOLIO/main/635119468_122229474020330189_7556539880864182269_n.jpg') center/cover;
   border: 4px solid var(--sky-light);
   box-shadow: 0 0 0 8px rgba(125,211,252,0.15);
-}
-
-.hero-card-name {
-  font-family: 'DM Serif Display', serif;
-  font-size: 1.1rem;
-  color: var(--ink);
-  text-align: center;
 }
 .hero-card-role {
   font-size: 0.78rem;
