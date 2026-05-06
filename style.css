@@ -235,7 +235,7 @@ h2.section-title {
 .hero-avatar {
   width: 150px; height: 150px;
   border-radius: 50%;
-  background: url('https://raw.githubusercontent.com/Khao-prog/ART-APP-PORTFOLIO/main/635119468_122229474020330189_7556539880864182269_n.jpg') center/cover;
+  background: url('635119468_122229474020330189_7556539880864182269_n.jpg') center/cover;
   border: 4px solid var(--sky-light);
   box-shadow: 0 0 0 8px rgba(125,211,252,0.15);
 }
